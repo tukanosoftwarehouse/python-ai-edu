@@ -22,6 +22,7 @@ cd python-ai-edu
 ```
 
 ### 2. Zainstaluj Python ze strony https://www.python.org/downloads/
+> ⚠️ Podczas instalacji pamiętaj o zaznaczeniu opcji "Add python.exe to PATH" - umożliwi to uruchamianie Pythona z poziomu wiersza poleceń.
 
 ### 3. Utwórz wirtualne środowisko Pythona
 
