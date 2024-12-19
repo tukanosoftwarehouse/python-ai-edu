@@ -1,22 +1,22 @@
-# Stage 01 - Podstawowe Programy w Pythonie 🐍
+# Stage 01 - podstawowe programy w Pythonie 🐍
 
 W tym katalogu znajdziesz kolekcję prostych programów demonstracyjnych napisanych w Pythonie. Każdy program pokazuje różne aspekty programowania i może służyć jako przykład do nauki.
 
-## Lista Programów 📋
+## Lista programów 📋
 
-1. **Kalkulator Napiwków** (`01_kalkulator_napiwkow.py`)
+1. **Kalkulator napiwków** (`01_kalkulator_napiwkow.py`)
    - Prosty kalkulator pomocny w obliczaniu napiwków
    - Oblicza kwotę napiwku i sumę całkowitą na podstawie wprowadzonej kwoty i procentu
 
-2. **Zegar Cyfrowy** (`02_zegar_cyfrowy.py`)
+2. **Zegar cyfrowy** (`02_zegar_cyfrowy.py`)
    - Program wyświetlający aktualny czas w formacie cyfrowym
    - Demonstracja pracy z czasem w Pythonie
 
-3. **Odwracacz Słów** (`03_odwracacz_slow.py`)
+3. **Odwracacz słów** (`03_odwracacz_slow.py`)
    - Program do odwracania wprowadzonego tekstu
    - Pokazuje manipulację stringami w Pythonie
 
-4. **Zgadnij Liczbę** (`04_zgadnij_liczbe.py`)
+4. **Zgadnij liczbę** (`04_zgadnij_liczbe.py`)
    - Prosta gra w zgadywanie wylosowanej liczby
    - Przykład wykorzystania losowości i pętli w programowaniu
 
@@ -24,7 +24,7 @@ W tym katalogu znajdziesz kolekcję prostych programów demonstracyjnych napisan
    - Program obliczający wskaźnik masy ciała (BMI)
    - Demonstruje pracę z danymi wejściowymi i obliczeniami
 
-## Jak Uruchomić Programy ▶️
+## Jak uruchomić programy ▶️
 
 1. Upewnij się, że masz zainstalowanego Pythona w wersji 3.x na swoim komputerze
    - Możesz to sprawdzić wpisując w terminalu: `python --version`
@@ -51,4 +51,4 @@ W tym katalogu znajdziesz kolekcję prostych programów demonstracyjnych napisan
 
 - Każdy program zawiera komentarze wyjaśniające jego działanie
 - Programy obsługują podstawową walidację danych wejściowych
-- W przypadku wprowadzenia nieprawidłowych danych, programy wyświetlą stosowny komunikat błędu 
+- W przypadku wprowadzenia nieprawidłowych danych, programy wyświetlą stosowny komunikat błędu

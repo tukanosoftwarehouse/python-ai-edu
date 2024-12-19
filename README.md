@@ -1,4 +1,4 @@
-# 🐍 Python i AI - Materiały Edukacyjne
+# 🐍 Python i AI - materiały edukacyjne
 
 Witaj w repozytorium materiałów edukacyjnych do nauki Pythona i podstaw Sztucznej Inteligencji! Ten projekt został stworzony z myślą o:
 - 🎓 Początkujących programistach
@@ -6,14 +6,14 @@ Witaj w repozytorium materiałów edukacyjnych do nauki Pythona i podstaw Sztucz
 - 🤖 Osobach stawiających pierwsze kroki w AI
 - 💡 Wszystkich zainteresowanych programowaniem
 
-## 🎯 Cel Projektu
+## 🎯 Cel projektu
 
 Repozytorium zawiera starannie przygotowane materiały edukacyjne, które pomogą Ci:
 - Nauczyć się podstaw programowania w Pythonie
 - Zrozumieć fundamenty Sztucznej Inteligencji
 - Przejść od teorii do praktyki poprzez przykłady i ćwiczenia
 
-## 🚀 Jak Rozpocząć?
+## 🚀 Jak rozpocząć?
 
 ### 1. Sklonuj repozytorium
 ```bash
@@ -43,7 +43,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 📚 Struktura Projektu
+## 📚 Struktura projektu
 
 Materiały są podzielone na etapy (stages), gdzie każdy kolejny etap wprowadza nowe koncepcje:
 
@@ -54,7 +54,7 @@ stage_03/
 stage_04/
 ```
 
-## 🤝 Jak Korzystać z Materiałów
+## 🤝 Jak korzystać z materiałów
 
 1. Zacznij od stage_01 i przechodź kolejno przez następne etapy
 2. Każdy folder zawiera README z opisem zagadnień
@@ -64,7 +64,7 @@ stage_04/
 
 Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku LICENSE.
 
-## 🤔 Potrzebujesz Pomocy?
+## 🤔 Potrzebujesz pomocy?
 
 - Sprawdź sekcję Issues w repozytorium
 - Dołącz do dyskusji w zakładce Discussions
