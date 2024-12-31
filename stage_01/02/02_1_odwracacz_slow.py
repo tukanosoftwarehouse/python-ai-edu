@@ -17,7 +17,7 @@ def main():
 
     try:
         # Pobierz tekst od użytkownika
-        tekst = input("\n✍️  Wpisz dowolny tekst: ")
+        tekst = input("\n✍️ Wpisz dowolny tekst: ")
 
         # Odwróć tekst i wyświetl wynik
         odwrocony = odwroc_slowo(tekst)

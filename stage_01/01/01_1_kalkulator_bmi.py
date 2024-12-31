@@ -23,13 +23,13 @@ def interpretuj_bmi(bmi):
 def main():
     # Wyświetl przyjazny banner powitalny
     print("=" * 50)
-    print("⚖️  Witaj w Kalkulatorze BMI!")
+    print("⚖️ Witaj w Kalkulatorze BMI!")
     print("Sprawdź czy Twoja waga jest prawidłowa")
     print("=" * 50)
 
     try:
         # Pobierz dane od użytkownika
-        waga = float(input("\n⚖️  Podaj swoją wagę (kg): "))
+        waga = float(input("\n⚖️ Podaj swoją wagę (kg): "))
         wzrost = float(input("📏 Podaj swój wzrost (m): "))
 
         # Oblicz BMI
