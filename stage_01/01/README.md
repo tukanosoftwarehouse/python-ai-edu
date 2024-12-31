@@ -4,25 +4,9 @@ W tym katalogu znajdziesz kolekcję prostych programów demonstracyjnych napisan
 
 ## Lista programów 📋
 
-5. **Kalkulator BMI** (`01_1_kalkulator_bmi.py`)
+1. **Kalkulator BMI** (`01_1_kalkulator_bmi.py`)
    - Program obliczający wskaźnik masy ciała (BMI)
    - Demonstruje pracę z danymi wejściowymi i obliczeniami
-
-3. **Odwracacz słów** (`02_1_odwracacz_slow.py`)
-   - Program do odwracania wprowadzonego tekstu
-   - Pokazuje manipulację stringami w Pythonie
-
-1. **Kalkulator napiwków** (`02_2_kalkulator_napiwkow.py`)
-   - Prosty kalkulator pomocny w obliczaniu napiwków
-   - Oblicza kwotę napiwku i sumę całkowitą na podstawie wprowadzonej kwoty i procentu
-
-4. **Zgadnij liczbę** (`03_1_zgadnij_liczbe.py`)
-   - Prosta gra w zgadywanie wylosowanej liczby
-   - Przykład wykorzystania losowości i pętli w programowaniu
-
-2. **Zegar cyfrowy** (`03_2_zegar_cyfrowy.py`)
-   - Program wyświetlający aktualny czas w formacie cyfrowym
-   - Demonstracja pracy z czasem w Pythonie
 
 ## Jak uruchomić programy ▶️
 
